@@ -7,7 +7,12 @@ title: Home
 
 Biomaterials researcher focused on biological-material interactions across bacterial, blood, and stem-cell systems.
 
-My research focuses on the biological evaluation of biomaterials and engineered surfaces, particularly how material properties influence bacterial response, blood compatibility, and stem-cell behavior. I am broadly interested in biocompatibility, antibacterial performance, and host-response-informed biomaterial design.
+My research focuses on biomaterials and surface-engineered materials, particularly how micro- and nano-scale surface modifications influence bacterial response, blood compatibility, and stem-cell behavior. I am broadly interested in biocompatibility, antibacterial and antifouling interfaces, hemocompatibility, and  performance, and translational biomaterials for regenerative medicine, blood-contacting, and orthopedic applications.
+
+## Current Role
+
+**Research Scientist, School of Biomedical and Chemical Engineering, Colorado State University**
+Working in biomaterials and nanomaterials with emphasis on biological interactions to materials properties.
 
 ## Welcome
 
