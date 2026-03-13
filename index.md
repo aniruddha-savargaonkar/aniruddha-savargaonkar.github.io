@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Aniruddha Savargaonkar, PhD
+# Aniruddha Vijay Savargaonkar, PhD
 
 Biomaterials researcher focused on biological-material interactions across bacterial, blood, and stem-cell systems.
 
