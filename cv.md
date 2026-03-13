@@ -5,6 +5,6 @@ title: CV
 
 # CV
 
-You can download my CV here.
+A current CV is available below for download.
 
 [Download CV](files/Aniruddha_Savargaonkar_CV.pdf)
